@@ -1,0 +1,17 @@
+button {
+    /* padding-left: 20px; */
+    padding-right: 15px
+}
+.data{
+    width: 50%;
+}
+
+.data span {
+    margin-left: -10px;
+}
+
+@media screen and (max-width:768px) {
+    .data{
+        width:100%
+    }
+}
